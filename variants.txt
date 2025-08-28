@@ -1,0 +1,13 @@
+parenleft.s1 parenleft.s2 parenleft.s3 parenleft.s4 parenleft.s5 parenleft.s6 parenleft.s7 parenleft.s8
+parenright.s1 parenright.s2 parenright.s3 parenright.s4 parenright.s5 parenright.s6 parenright.s7 parenright.s8
+bracketleft.s1 bracketleft.s2 bracketleft.s3 bracketleft.s4 bracketleft.s5 bracketleft.s6 bracketleft.s7 bracketleft.s8
+bracketright.s1 bracketright.s2 bracketright.s3 bracketright.s4 bracketright.s5 bracketright.s6 bracketright.s7 bracketright.s8
+braceleft.s1 braceleft.s2 braceleft.s3 braceleft.s4 braceleft.s5 braceleft.s6 braceleft.s7 braceleft.s8
+braceright.s1 braceright.s2 braceright.s3 braceright.s4 braceright.s5 braceright.s6 braceright.s7 braceright.s8
+angleleft.s1 angleleft.s2 angleleft.s3 angleleft.s4 angleleft.s5 angleleft.s6 angleleft.s7 angleleft.s8
+angleright.s1 angleright.s2 angleright.s3 angleright.s4 angleright.s5 angleright.s6 angleright.s7 angleright.s8
+uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047
+uniE060 uniE061 uniE062 uniE063 uniE064 uniE065 uniE066 uniE067
+uniE068 uniE069 uniE06A uniE06B uniE06C uniE06D uniE06E uniE06F
+uniE070 uniE071 uniE072 uniE073 uniE074 uniE075 uniE076 uniE077
+uniE078 uniE079 uniE07A uniE07B uniE07C uniE07D uniE07E uniE07F

@@ -1,5 +1,10 @@
 <html>
 <style>
+@font-face {
+	font-family: "Gentium Math";
+	src: url("Gentium-Math.ttf"), local("Gentium Math");
+}
+
 math {
 	font-family: "Gentium Math";
 }
@@ -8,7 +13,10 @@ math {
 <math display="block" class="tml-display" style="display:block math;">
   <mstyle scriptlevel="0" displaystyle="true">
     <mo movablelimits="false">∫</mo>
-    <mi class="mathcal">𝒟</mi>
+	<msup>
+		<mi class="mathcal">𝒟</mi>
+		<mo>′</mo>
+	</msup>
     <mrow>
       <mo fence="true" form="prefix">[</mo>
       <mi>x</mi>
