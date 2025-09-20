@@ -1,22 +1,29 @@
+<!DOCTYPE html>
 <html>
+<meta charset="utf-8" />
 <style>
-@font-face {
-	font-family: "Gentium Math";
-	src: url("Gentium-Math.ttf"), local("Gentium Math");
-}
+  @font-face {
+    font-family: "Gentium Math";
+    src: url("Gentium-Math.ttf"), local("Gentium Math");
+  }
 
-math {
-	font-family: "Gentium Math";
-}
+  math {
+    font-family: "Gentium Math";
+  }
+
+  math msup:last-child,
+  math msup:last-child {
+    font-feature-settings: "ssty";
+  }
 </style>
 
 <math display="block" class="tml-display" style="display:block math;">
   <mstyle scriptlevel="0" displaystyle="true">
-    <mo movablelimits="false">∫</mo>
-	<msup>
-		<mi class="mathcal">𝒟</mi>
-		<mo>′</mo>
-	</msup>
+    <mo>∫</mo>
+    <msup>
+      <mi class="mathcal">𝒟</mi>
+      <mo>′</mo>
+    </msup>
     <mrow>
       <mo fence="true" form="prefix">[</mo>
       <mi>x</mi>
@@ -39,7 +46,7 @@ math {
           <mstyle scriptlevel="0" displaystyle="true">
             <mrow>
               <munderover>
-                <mo movablelimits="false">∑</mo>
+                <mo>∑</mo>
                 <mrow>
                   <mi>q</mi>
                   <mo>=</mo>
@@ -55,7 +62,7 @@ math {
                 <mo>+</mo>
                 <mover>
                   <mi>L</mi>
-                  <mo stretchy="false" class="chr-sml wbk-sml-acc" style="math-depth:0;">^</mo>
+                  <mo stretchy="false" class="chr-sml wbk-sml-acc" style="math-depth:0;">ˆ</mo>
                 </mover>
                 <mo fence="true" form="postfix">)</mo>
               </mrow>
@@ -141,7 +148,7 @@ math {
             <mo stretchy="false">↪</mo>
             <mover>
               <mi>D</mi>
-              <mo stretchy="false" class="tml-vec chr-sml wbk-sml-vec">→</mo>
+              <mo stretchy="false" class="tml-vec chr-sml wbk-sml-vec">⃗</mo>
             </mover>
             <mo>⋅</mo>
             <mi>𝑷</mi>
@@ -214,4 +221,5 @@ math {
     <mi>ℝ</mi>
   </mstyle>
 </math>
+
 </html>

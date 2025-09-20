@@ -1,6 +1,12 @@
-*.ttf
+
 *.otf
 *.woff
 *.woff2
 *.docx
 *.html
+*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex*
